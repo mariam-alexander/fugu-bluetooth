@@ -1,6 +1,6 @@
 ![Screenshot 2021-09-01 at 17 04 49](https://user-images.githubusercontent.com/70487054/131696794-6f880ab5-5d0a-46e8-b877-7d8b6b3b9963.png)
 # web bluetooth api test
-
+[fugu-bluetooth]( https://mariam-alexander.github.io/fugu-bluetooth/)
 ## Project setup
 ```
 npm install
